@@ -1,0 +1,2 @@
+puts "Exception handling is a way to gracefully deal with errors thrown by incorrect or unanticipated input or data."
+puts "It allows a program to continue to run, and/or present an approprite error message to the user."
